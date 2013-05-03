@@ -14,6 +14,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),s6500d)
+ifeq ($(TARGET_DEVICE),jenad)
 include $(call all-makefiles-under,$(LOCAL_PATH))
 endif

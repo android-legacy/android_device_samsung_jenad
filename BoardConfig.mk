@@ -21,7 +21,7 @@ include device/samsung/msm7x27a-common/BoardConfigCommon.mk
 TARGET_KERNEL_CONFIG := cyanogenmod_jena_defconfig
 
 ## OTA assert
-TARGET_OTA_ASSERT_DEVICE := jena,s6500d,GT-S6500D
+TARGET_OTA_ASSERT_DEVICE := jena,GT-S6500D
 
 ## Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/samsung/s6500d/bluetooth
