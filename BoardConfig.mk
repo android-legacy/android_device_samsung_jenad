@@ -1,4 +1,4 @@
-# Copyright (C) 2012 The CyanogenMod Project
+# Copyright (C) 2013 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -21,4 +21,4 @@ include device/samsung/msm7x27a-common/BoardConfigCommon.mk
 TARGET_KERNEL_CONFIG := cyanogenmod_jena_defconfig
 
 ## OTA assert
-TARGET_OTA_ASSERT_DEVICE := jena,GT-S6500D
+TARGET_OTA_ASSERT_DEVICE := jenad,GT-S6500D
