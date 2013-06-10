@@ -20,7 +20,7 @@ ro.max.fling_velocity=4000
 debug.sf.hw=1
 debug.gr.numframebuffers=3
 hwui.render_dirty_regions=false
-persist.sys.use_dithering=0
+persist.sys.use_dithering=2
 
 ## Memory
 ro.zram.default=0
