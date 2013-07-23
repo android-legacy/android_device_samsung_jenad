@@ -20,4 +20,8 @@ include device/samsung/msm7x27a-common/msm7x27a.mk
 PRODUCT_COPY_FILES += \
     device/samsung/jenad/rootdir/init.rle:root/GT-S6500.rle
 
+## Recovery splash screen
+#PRODUCT_COPY_FILES += \
+#    device/samsung/jena/rootdir/init-cwm.rle:root/GT-S6500.rle
+
 $(call inherit-product, vendor/samsung/jena/blobs.mk)

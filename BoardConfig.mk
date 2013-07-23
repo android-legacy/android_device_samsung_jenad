@@ -18,10 +18,10 @@
 include device/samsung/msm7x27a-common/BoardConfigCommon.mk
 
 ## Platform
-TARGET_BOOTLOADER_BOARD_NAME := jena
+TARGET_BOOTLOADER_BOARD_NAME := jenad
 
 ## Kernel
 TARGET_KERNEL_CONFIG := cyanogenmod_jena_defconfig
 
 ## OTA assert
-TARGET_OTA_ASSERT_DEVICE := jenad,GT-S6500D
+TARGET_OTA_ASSERT_DEVICE := jena,jenad,GT-S6500,GT-S6500D
