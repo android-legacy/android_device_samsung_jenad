@@ -14,7 +14,6 @@ ro.telephony.call_ring.delay=3000
 ## Wi-Fi interface
 wifi.interface=wlan0
 wifi.supplicant_scan_interval=180
-wifi.ap.interface=athap0
 
 ## Display, graphics
 ro.sf.lcd_density=160
