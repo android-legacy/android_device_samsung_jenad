@@ -13,10 +13,10 @@
 # limitations under the License.
 
 ## Specify phone tech before including full_phone
-$(call inherit-product, vendor/cm/config/gsm.mk)
+$(call inherit-product, vendor/aokp/configs/gsm.mk)
 
-## Inherit common CM stuff.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+## Inherit common AOKP stuff.
+$(call inherit-product, vendor/aokp/config/common.mk)
 
 ## Inherit device files
 $(call inherit-product, device/samsung/jenad/jenad.mk)
