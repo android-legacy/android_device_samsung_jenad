@@ -22,7 +22,7 @@ $(call inherit-product, vendor/aokp/config/common.mk)
 $(call inherit-product, device/samsung/jenad/jenad.mk)
 
 ## Setup device configuration
-PRODUCT_NAME := cm_jenad
+PRODUCT_NAME := aokp_jenad
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_MODEL := GT-S6500D
