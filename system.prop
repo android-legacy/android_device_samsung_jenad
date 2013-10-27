@@ -25,7 +25,7 @@ ro.opengles.version=131072
 ro.max.fling_velocity=4000
 debug.sf.hw=1
 debug.gr.numframebuffers=3
-persist.sys.use_dithering=0
+persist.sys.prefer_16bpp=0
 
 ## (Low Power) Audio
 lpa.decode=false
@@ -49,8 +49,8 @@ ro.fm.mulinst.recording.support=false
 
 ## USB, storage
 persist.sys.usb.config=mtp,adb
-persist.sys.vold.switchexternal=0
-ro.vold.switchablepair=/storage/sdcard0,/storage/sdcard1
+ro.additionalmounts=/storage/sdcard1
+ro.vold.switchablepair=/storage/sdcard1,/storage/sdcard0
 ro.vold.umsdirtyratio=50
 
 ## Dalvik
