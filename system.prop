@@ -24,6 +24,7 @@ ro.max.fling_velocity=4000
 ro.bq.gpu_to_cpu_unsupported=1
 debug.sf.hw=1
 debug.gr.numframebuffers=3
+debug.composition.type=dyn
 
 ## Low Power Audio
 lpa.decode=true
