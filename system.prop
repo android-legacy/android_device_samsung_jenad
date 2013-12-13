@@ -50,4 +50,5 @@ persist.sys.usb.config=mtp,adb
 ro.vold.umsdirtyratio=50
 
 ## Dalvik
+dalvik.vm.dexopt-data-only=1
 dalvik.vm.jit.codecachesize=0
