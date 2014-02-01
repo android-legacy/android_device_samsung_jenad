@@ -26,5 +26,9 @@ TARGET_KERNEL_CONFIG := cyanogenmod/jenad_defconfig
 ## Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/samsung/jenad/bluetooth
 
+## Camera
+TARGET_PREBUILT_LIBCAMERA := true
+TARGET_CAMERA_SENSOR_MP_SIZE := 3
+
 ## OTA assert
 TARGET_OTA_ASSERT_DEVICE := jena,jenad,GT-S6500,GT-S6500D
