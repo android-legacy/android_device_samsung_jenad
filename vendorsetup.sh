@@ -20,3 +20,4 @@
 # function: add_lunch_combo generic-eng
 
 add_lunch_combo aokp_jenad-userdebug
+add_lunch_combo full_jenad-userdebug
