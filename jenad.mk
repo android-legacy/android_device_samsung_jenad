@@ -29,4 +29,8 @@ PRODUCT_COPY_FILES += \
     device/samsung/jena/rootdir/init-cwm.rle:root/GT-S6500.rle
 endif
 
+# World APNs
+PRODUCT_COPY_FILES += \
+    vendor/aokp/prebuilt/common/etc/apns-conf.xml:system/etc/apns-conf.xml
+
 $(call inherit-product, vendor/samsung/jena/blobs.mk)
