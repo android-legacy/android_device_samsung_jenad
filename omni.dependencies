@@ -2,7 +2,7 @@
  {
    "repository": "android_kernel_msm_caf",
    "target_path": "kernel/samsung/msm7x27a",
-   "branch": "jb_2.5.5-stable"
+   "revision": "jb_2.5.5-stable"
  }, {
    "repository": "android_device_samsung_msm7x27a-common",
    "target_path": "device/samsung/msm7x27a-common"
@@ -12,7 +12,7 @@
  }, {
    "repository": "android_hardware_atheros_wlan",
    "target_path": "hardware/atheros/wlan",
-   "branch": "cm-11.0"
+   "revision": "cm-11.0"
  }, {
    "repository": "android_hardware_qcom_media-caf",
    "target_path": "hardware/qcom/media-caf"
