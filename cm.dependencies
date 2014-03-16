@@ -1,0 +1,12 @@
+[
+ {
+   "repository": "android_kernel_samsung_msm",
+   "target_path": "kernel/samsung/msm7x27a"
+ }, {
+   "repository": "android_device_samsung_msm7x27a-common",
+   "target_path": "device/samsung/msm7x27a-common"
+ }, {
+   "repository": "proprietary_vendor_samsung_msm7x27a",
+   "target_path": "vendor/samsung"
+ }
+]
