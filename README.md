@@ -1,6 +1,6 @@
-CyanogenMod 10 device configuration for Samsung Galaxy Mini 2 - GT-S6500D (non-NFC)
+CyanogenMod 9 device configuration for Samsung Galaxy Mini 2 - GT-S6500D (non-NFC)
 
-Created and maintained by TheWhisp
+Created and maintained by TheWhisp // co-maintained by erikcas
 
 http://forum.xda-developers.com/showthread.php?t=2012939
 
