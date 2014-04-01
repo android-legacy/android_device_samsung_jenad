@@ -2,7 +2,7 @@
  {
    "repository": "android_kernel_msm_caf",
    "target_path": "kernel/samsung/msm7x27a",
-   "revision": "kk2.7-wip"
+   "revision": "wippie"
  }, {
    "repository": "android_device_samsung_msm7x27a-common",
    "target_path": "device/samsung/msm7x27a-common"
