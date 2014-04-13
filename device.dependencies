@@ -1,0 +1,22 @@
+[
+ {
+   "repository": "android_kernel_msm_caf",
+   "target_path": "kernel/samsung/msm7x27a",
+   "revision": "kk_2.7-stable"
+ }, {
+   "repository": "android_device_samsung_msm7x27a-common",
+   "target_path": "device/samsung/msm7x27a-common"
+ }, {
+   "repository": "proprietary_vendor_samsung_msm7x27a",
+   "target_path": "vendor/samsung",
+   "revision": "android-4.4"
+ }, {
+   "repository": "android_hardware_atheros_wlan",
+   "target_path": "hardware/atheros/wlan",
+   "revision": "cm-11.0"
+ }, {
+   "repository": "android_hardware_qcom_display-legacy",
+   "target_path": "hardware/qcom/display-legacy",
+   "revision": "android-4.4"
+ }
+]
