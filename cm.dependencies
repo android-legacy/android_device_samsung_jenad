@@ -5,7 +5,7 @@
    "branch": "kk_2.7-stable"
  }, {
    "repository": "android_device_samsung_msm7x27a-common",
-   "target_path": "device/samsung/msm7x27a-common"
+   "target_path": "device/samsung/msm7x27a-common",
    "branch": "cm-11.0"
  }, {
    "repository": "proprietary_vendor_samsung_msm7x27a",
